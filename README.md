@@ -1,6 +1,5 @@
-# terraform-digital-ocean-k3s + kilo example
-#Deploy the vms, the following code requires a digital ocean account but it's only an example
-https://github.com/ironashram/terraform-digital-ocean-k3s
+### terraform-digital-ocean-k3s + kilo example
+# Deploy the vms, the terraform code in this repo requires a digital ocean account and k3sup but it's only an example
 
 # deploy kilo, it needs to be the primary and possibly only CNI
 ```
